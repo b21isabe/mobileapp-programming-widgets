@@ -58,7 +58,6 @@ Kodexempel 4
         ...
 ```
 
-
-Resultet
 ![](sc.PNG)
+
 Figur 1
